@@ -713,7 +713,14 @@ a {
 .cid-stUEmW8DBm {
   padding-top: 6rem;
   padding-bottom: 2rem;
-  background-image: linear-gradient(135deg, #189daa 10%, #faa2bc 100%) !important;
+  background-color: #faa2bc;
+}
+.cid-stUEmW8DBm .mbr-section-title {
+  color: #000000;
+}
+.cid-stUEmW8DBm .mbr-text,
+.cid-stUEmW8DBm .mbr-section-btn {
+  color: #000000;
 }
 .cid-s65iadm41y {
   padding-top: 10rem;
