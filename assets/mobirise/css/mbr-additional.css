@@ -710,6 +710,18 @@ body {
 a {
   transition: color 0.6s;
 }
+.cid-sIrXeQAyob {
+  padding-top: 3rem;
+  padding-bottom: 0rem;
+  background-color: #faa2bc;
+}
+.cid-sIrXeQAyob .mbr-section-title {
+  color: #000000;
+}
+.cid-sIrXeQAyob .mbr-text,
+.cid-sIrXeQAyob .mbr-section-btn {
+  color: #000000;
+}
 .cid-s65iadm41y {
   padding-top: 10rem;
   padding-bottom: 10rem;
