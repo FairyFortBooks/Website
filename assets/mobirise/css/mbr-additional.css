@@ -710,17 +710,21 @@ body {
 a {
   transition: color 0.6s;
 }
-.cid-sIrXeQAyob {
+.cid-sLF0UMOCpK {
   padding-top: 3rem;
   padding-bottom: 0rem;
   background-color: #faa2bc;
 }
-.cid-sIrXeQAyob .mbr-section-title {
-  color: #000000;
+@media (max-width: 991px) {
+  .cid-sLF0UMOCpK .image-wrapper {
+    margin-bottom: 1rem;
+  }
 }
-.cid-sIrXeQAyob .mbr-text,
-.cid-sIrXeQAyob .mbr-section-btn {
-  color: #000000;
+.cid-sLF0UMOCpK .row {
+  flex-direction: row-reverse;
+}
+.cid-sLF0UMOCpK img {
+  width: 100%;
 }
 .cid-s65iadm41y {
   padding-top: 10rem;
