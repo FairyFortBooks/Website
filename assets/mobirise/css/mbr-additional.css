@@ -710,21 +710,27 @@ body {
 a {
   transition: color 0.6s;
 }
-.cid-sLF0UMOCpK {
+.cid-sOSevi6uAW {
   padding-top: 3rem;
-  padding-bottom: 0rem;
-  background-color: #faa2bc;
+  padding-bottom: 1rem;
+  background-color: #fdb7cc;
 }
-@media (max-width: 991px) {
-  .cid-sLF0UMOCpK .image-wrapper {
-    margin-bottom: 1rem;
+@media (min-width: 1500px) {
+  .cid-sOSevi6uAW .container {
+    max-width: 1400px;
   }
 }
-.cid-sLF0UMOCpK .row {
-  flex-direction: row-reverse;
+.cid-sOSevi6uAW .mbr-iconfont {
+  display: block;
+  font-size: 5rem;
+  color: #6592e6;
+  margin-bottom: 2rem;
 }
-.cid-sLF0UMOCpK img {
-  width: 100%;
+.cid-sOSevi6uAW .card-wrapper {
+  margin-top: 3rem;
+}
+.cid-sOSevi6uAW .row {
+  justify-content: center;
 }
 .cid-s65iadm41y {
   padding-top: 10rem;
