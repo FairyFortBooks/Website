@@ -710,27 +710,10 @@ body {
 a {
   transition: color 0.6s;
 }
-.cid-sOSevi6uAW {
-  padding-top: 3rem;
-  padding-bottom: 1rem;
+.cid-sQAXJdUdC4 {
+  padding-top: 4rem;
+  padding-bottom: 0rem;
   background-color: #fdb7cc;
-}
-@media (min-width: 1500px) {
-  .cid-sOSevi6uAW .container {
-    max-width: 1400px;
-  }
-}
-.cid-sOSevi6uAW .mbr-iconfont {
-  display: block;
-  font-size: 5rem;
-  color: #6592e6;
-  margin-bottom: 2rem;
-}
-.cid-sOSevi6uAW .card-wrapper {
-  margin-top: 3rem;
-}
-.cid-sOSevi6uAW .row {
-  justify-content: center;
 }
 .cid-s65iadm41y {
   padding-top: 10rem;
