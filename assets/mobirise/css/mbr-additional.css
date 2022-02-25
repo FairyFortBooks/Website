@@ -710,15 +710,6 @@ body {
 a {
   transition: color 0.6s;
 }
-.cid-sWDjs709Cl {
-  padding-top: 3rem;
-  padding-bottom: 0rem;
-  background-color: #fdb7cc;
-}
-.cid-sWDjs709Cl .mbr-text,
-.cid-sWDjs709Cl .link {
-  text-align: center;
-}
 .cid-s65iadm41y {
   padding-top: 10rem;
   padding-bottom: 8rem;
@@ -811,10 +802,10 @@ a {
   }
 }
 .cid-sEisQP8E2I .mbr-text {
-  text-align: center;
+  text-align: left;
 }
 .cid-sEisQP8E2I .card-title {
-  text-align: left;
+  text-align: center;
 }
 .cid-stUEmW8DBm {
   padding-top: 1rem;
